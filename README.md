@@ -11,11 +11,11 @@
 $ vue init nuxt-community/starter-template <project-name>
 ```
 
-## Build Setup
+## Configuración
 
 ``` bash
 
-# install	 dependencies
+# install dependencies
 $ cd <project-name>
 $ npm install # Or yarn install
 
