@@ -2,9 +2,7 @@
 
 > Project with Nuxt, Adonis, Vue, SQL y JSON
 
-## Primeros pasos
-
-### Instalacion de Nuxt
+## Instalacion de Nuxt
 
 ``` bash
 # install Nuxt
