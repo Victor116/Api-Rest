@@ -1,11 +1,22 @@
-# apirest
+# Como crear una Api Rest
 
 > Project with Nuxt, Adonis, Vue, SQL y JSON
+
+## Primeros pasos
+
+### Instalacion de Nuxt
+
+``` bash
+# install Nuxt
+$ vue init nuxt-community/starter-template <project-name>
+```
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+
+# install	 dependencies
+$ cd <project-name>
 $ npm install # Or yarn install
 
 # serve with hot reload at localhost:3000
